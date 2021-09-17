@@ -1,6 +1,8 @@
 {
-  "name": "@dzo/com",
+  "name": "{{name}}",
   "version": "1.0.0",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
